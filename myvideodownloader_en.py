@@ -1,5 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# Author :  ELFO
+#
 #videodownloader for termux
-#author : Elfo
+
 import os
 import subprocess
 import glob
